@@ -1,0 +1,9 @@
+*.iml
+*.log*
+*.swo
+*.swp
+.idea
+.vim*
+grails-app/conf/Customer.groovy
+target
+.DS_Store
